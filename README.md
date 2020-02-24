@@ -17,6 +17,7 @@ Ce script permet de cloner, de renommer, et d'ouvrir un repo Github en une seule
       - `mv git.sh /usr/bin`
 
 ## Utilisation
+(! Attention, cela fonctionne uniquement pour les url ssh de git pour le moment)
 
 Exemple:
 `git.sh nomdurepo nouveaunom`
